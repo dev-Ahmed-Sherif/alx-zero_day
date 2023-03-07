@@ -1,5 +1,6 @@
+git pull
 git clone
+git commit
 git status
-git add .
 git push
-git commit -m
+git add
